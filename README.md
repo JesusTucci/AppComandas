@@ -40,6 +40,22 @@ La **Comandas App** es una aplicación JavaFX para gestionar comandas en un rest
 3. Agrega o elimina productos según sea necesario.
 4. Genera facturas y mantén un historial actualizado.
 
+## Changelog
+
+### Versión 1.0.0 (10/03/2024)
+Nueva Característica: Implementada generación de informes históricos y facturas de mesas.
+Mejora: Interfaz grafica mas ordenada
+Corrección: Solucionado el problema con la visualización de imágenes de productos.
+
+### Versión 0.6.0 (5/03/2024)
+Nueva Característica: Implementada generación de informes históricos de mesas.
+Mejora: Interfaz de usuario actualizada para una mejor experiencia.
+Corrección: Resuelto el error que causaba cierres inesperados de la aplicación.
+
+### Versión 0.3.0 (26/02/2024)
+Versión Inicial: Desarrollo inicial de la aplicación.
+Características Básicas: Visualización de mesas, gestión de comandas, generación de facturas.
+
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes alguna mejora, no dudes en abrir un problema o enviar una solicitud de extracción.
